@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Navdeep Singh
 
 🎓 Final Year B.Tech Student  
-📊 Aspiring Data Analyst | Data Scientist  
+📊 Data Scientist  
 💡 Passionate about turning data into meaningful insights  
 
 ---
@@ -36,16 +36,6 @@ Currently focused on:
 - Data Visualization  
 - Business Insight Extraction  
 - Model Building (Regression & Classification)
-
----
-
-## 📂 Featured Projects
-
-🔹 **E-Commerce Sales Analysis & Business Insights**  
-End-to-end EDA project analyzing sales trends, profitability, and customer segments.  
-👉 https://github.com/NavdeepR24/ecommerce-sales-analysis
-
-(You can add more projects here later)
 
 ---
 
