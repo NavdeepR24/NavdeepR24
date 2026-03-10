@@ -29,6 +29,7 @@ Currently focused on:
 - Plotly
 - Power BI
 - Scikit-learn
+- Streamlit
 
 **Data Skills**
 - Data Cleaning & Preprocessing  
