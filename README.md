@@ -50,6 +50,8 @@ Currently focused on:
 
 ⭐ Always open to learning, collaboration, and new opportunities in Data Analytics & Data Science.
 
+![GitHub GIF](vibing.gif)
+
 
 <!--
 **NavdeepR24/NavdeepR24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
