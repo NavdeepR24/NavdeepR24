@@ -30,6 +30,7 @@ Currently focused on:
 - Power BI
 - Scikit-learn
 - Streamlit
+- Pygames
 
 **Data Skills**
 - Data Cleaning & Preprocessing  
